@@ -1,2 +1,9 @@
+pcall function(
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Mute/refs/heads/main/Allgame"))()
-local a = loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Finder/refs/heads/main/Sab"))()
+end)
+
+task.wait(3)
+
+pcall funcition(
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Finder/refs/heads/main/Sab"))()
+end)
