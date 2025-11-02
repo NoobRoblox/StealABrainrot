@@ -6,8 +6,3 @@ pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Finder/refs/heads/main/Sab"))()
 end)
 
-pcall(funcition()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Test/refs/heads/main/Sendlink"))()
-end)
-
-    
