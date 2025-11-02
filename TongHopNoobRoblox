@@ -1,2 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Finder/refs/heads/main/Sab"))()
-local a = loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Test/refs/heads/main/Sendlink"))()
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Finder/refs/heads/main/Sab"))()
+end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Test/refs/heads/main/Sendlink"))()
+end)
